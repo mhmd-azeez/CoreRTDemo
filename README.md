@@ -1,0 +1,1 @@
+This repo contains a demo of a c# class library that's compiled with CoreRT as a native shared library and then called by a dotnet core and a c++ console application. You can know more by reading [this article](https://dev.to/encrypt0r/writing-native-libraries-in-c-3kl).
