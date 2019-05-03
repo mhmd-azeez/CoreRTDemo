@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <None Include="..\NativeLibrary\bin\Release\netcoreapp2.2\win-x64\native\NativeLibrary.dll" Link="NativeLibrary.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 
